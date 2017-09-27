@@ -2,3 +2,5 @@ Mars is red.
 It is also hot and dry.
 What the heck is this doing here?
 And has three rovers.
+
+It has many craters too
